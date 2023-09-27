@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goofygiraffe06&label=Profile%20views&color=0e75b6&style=flat" alt="goofygiraffe06" /> </p>
 
-- 🔭 I’m currently working on [Pyhorse](https://github.com/Goofygiraffe06/PyHorse)
+- 🔭 I’m currently working on [DailyCTF Robot](https://github.com/Goofygiraffe06/DailyCTFRobot)
 
 - 🌱 I’m currently learning **Python, C, Pentesting**
 
