@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Goofygiraffe06</h1>
+<h1 align="center">Hi 👋, I'm Rahul Narsingipyta a.k.a. Goofygiraffe06</h1>
 <h3 align="center">Student, Linux & Open Source Enthusiast, Aspiring Web Application & Network Penetration Tester</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goofygiraffe06&label=Profile%20views&color=0e75b6&style=flat" alt="goofygiraffe06" /> </p>
